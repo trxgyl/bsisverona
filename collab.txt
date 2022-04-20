@@ -1,2 +1,5 @@
 Hello Owner!
 Hi Collaborator!
+A sample line added by me the owner.
+I added this line me the collaborator.
+printf("The area of triangle is : %.2f" ,x);
